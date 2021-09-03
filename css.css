@@ -1,0 +1,16 @@
+.fondo{
+    position:absolute;
+    height:200px;
+    width:200px;
+    top: 40px;
+    left : 40px;
+    z-index: 1;
+  }
+  
+  .wally1
+  {
+    position:relative;
+    height:40px;
+    width: 40px;
+    z-index: 10;
+  }
