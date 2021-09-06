@@ -1,4 +1,4 @@
-.fondo{
+.wallyfondo{
     position:absolute;
     height:200px;
     width:200px;
@@ -9,7 +9,7 @@
   
   .wally1
   {
-    position:relative;
+    position:absolute;
     height:40px;
     width: 40px;
     z-index: 10;

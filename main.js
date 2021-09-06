@@ -10,7 +10,7 @@ $('#muestraOculta').click(function(){
         if ($('#muestraOculta').html() == '¡QUIERO JUGAR!') {
             $('#muestraOculta').html('No juego más');
         } else {
-            $('muestraOculta').html("¡QUIERO JUGAR!");
+            $('#muestraOculta').html("¡QUIERO JUGAR!");
         }
     });
 });
